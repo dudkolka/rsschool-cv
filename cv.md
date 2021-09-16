@@ -2,6 +2,7 @@
 Dudzich Mikalai
 ## contacts
 https://vk.com/dudkolka
+dudkolkas@gmail.com
 ## about me
 I am a university student at the Faculty of Mathematics. I consider purposefulness to be my main positive quality, I have no work experience, but I strive to become front-end developer
 ## skills
